@@ -1,0 +1,22 @@
+body {
+background: #F5F5F5;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+img {
+    width:768px;
+    height: 492px;
+}
+
+p {
+    font-size: 12px;
+}
+
+.paraghraph-1 {
+margin: 80px;
+position: absolute;
+left: calc(50% - 1141px/2 + 45.5px);
+}
